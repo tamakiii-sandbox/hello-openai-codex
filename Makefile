@@ -18,4 +18,4 @@ dependency/openai:
 	mkdir -p dependency/openai
 
 dependency/openai/codex:
-	git clone org-14957082@github.com:openai/codex.git
+	git clone org-14957082@github.com:openai/codex.git $@
